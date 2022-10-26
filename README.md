@@ -1,3 +1,4 @@
-## #Git-klone
+#Git-klone
+-------------------------
+Git üzerinde yaptığım çalışmaları sergiliyorum değiştirdim
 
-Selamlar git deneme değiştirme.
