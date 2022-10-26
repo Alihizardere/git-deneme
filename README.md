@@ -1,3 +1,4 @@
-#Git-klon
-Git üzerinde yaptığım çalışmaları sergiliyorum
+#Git-klone
+-------------------------
+Git üzerinde yaptığım çalışmaları sergiliyorum değiştirdim
 
